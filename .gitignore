@@ -1,0 +1,32 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.log
+
+# Virtual Environment
+venv/
+.env
+
+# YOLO Weights (Large File)
+yolov3.weights
+yolov3.cfg
+coco.names
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Jupyter (if any)
+.ipynb_checkpoints/
+
+# Output Files (Optional)
+*.mp4
+*.avi
+*.jpg
+*.png
