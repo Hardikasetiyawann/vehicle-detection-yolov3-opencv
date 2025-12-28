@@ -1,5 +1,3 @@
-
-````md
 # Vehicle Detection and Counting using YOLOv3 and OpenCV
 
 This project implements a **real-time vehicle detection and counting system**
